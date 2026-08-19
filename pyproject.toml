@@ -1,0 +1,13 @@
+[project]
+name = "mnist-av"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=5.0.1",
+    "numpy>=2.2.6",
+    "opencv-python>=5.0.0.93",
+    "pillow>=12.3.0",
+    "pretty-midi>=0.2.11.post0",
+    "pyfluidsynth>=1.4.0",
+    "soundfile>=0.14.0",
+]
