@@ -5,8 +5,7 @@ A synthetic audio-visual dataset with synchronized digit videos, instrument soun
 <table>
 <tr>
 <td width="16.6%">
-<video controls width="100%">
-<source src="./demo1.mp4" type="video/mp4">
+Audio video
 </video>
 </td>
 
@@ -43,8 +42,7 @@ A synthetic audio-visual dataset with synchronized digit videos, instrument soun
 
 <tr>
 <td width="16.6%">
-<video controls width="100%">
-<source src="./demo7.mp4" type="video/mp4">
+Text description
 </video>
 </td>
 
