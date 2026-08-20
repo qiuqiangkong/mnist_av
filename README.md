@@ -27,7 +27,7 @@ Video with audio
 
 <td width="20%">
 <video 
-  src="https://github.com/user-attachments/assets/31b81777-ee97-4cff-b4a6-12cf3189426e"
+  src="https://github.com/user-attachments/assets/9867fe73-8d0d-48ab-8437-f25ab3c6105c"
   controls
   width="100%">
 </video>
@@ -50,7 +50,7 @@ Metadata
 </td>
 
 <td width="20%">
-{"video_fps": 24, "audio_sr": 16000, "digit": 3, "speed": 80.23661416370088, "instrument": "viola"}
+{"video_fps": 24, "audio_sr": 16000, "digit": 2, "speed": -116.73286592787174, "instrument": "piano"}
 </video>
 </td>
 
