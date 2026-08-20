@@ -33,14 +33,6 @@ Video with audio
 </video>
 </td>
 
-<td width="20%">
-<video 
-  src="https://github.com/user-attachments/assets/18b9c4ab-2310-4e9a-b26e-6865725e244a"
-  controls
-  width="100%">
-</video>
-</td>
-
 <tr>
 <td width="20%">
 Metadata
@@ -62,10 +54,6 @@ Metadata
 </video>
 </td>
 
-<td width="20%">
-{"video_fps": 24, "audio_sr": 16000, "digit": 2, "speed": -116.73286592787174, "instrument": "piano"}
-</video>
-</td>
 </tr>
 
 </table>
