@@ -178,7 +178,7 @@ def write_json(meta: dict, path: str) -> None:
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--out_dir", type=str, default="./dataset")
+    parser.add_argument("--out_dir", type=str, default="./datasets/mnist_av")
     parser.add_argument("--sf2_path", type=str, default="./FluidR3_GM.sf2")
     args = parser.parse_args()
 
