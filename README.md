@@ -10,38 +10,6 @@ Audio video
 </td>
 
 <td width="16.6%">
-{"video_fps": 24, "audio_sr": 16000, "digit": 0, "speed": -79.3532652822735, "instrument": "harp"}
-</video>
-</td>
-
-<td width="16.6%">
-{"video_fps": 24, "audio_sr": 16000, "digit": 1, "speed": 50.48710167061431, "instrument": "oboe"}
-</video>
-</td>
-
-<td width="16.6%">
-{"video_fps": 24, "audio_sr": 16000, "digit": 3, "speed": 80.23661416370088, "instrument": "viola"}
-</video>
-</td>
-
-<td width="16.6%">
-{"video_fps": 24, "audio_sr": 16000, "digit": 2, "speed": -116.73286592787174, "instrument": "piano"}
-</video>
-</td>
-
-<td width="16.6%">
-{"video_fps": 24, "audio_sr": 16000, "digit": 8, "speed": -33.987388002672645, "instrument": "oboe"}
-</video>
-</td>
-</tr>
-
-<tr>
-<td width="16.6%">
-Metadata
-</video>
-</td>
-
-<td width="16.6%">
 <video controls width="100%">
 <source src="./demo8.mp4" type="video/mp4">
 </video>
@@ -71,6 +39,40 @@ Metadata
 </video>
 </td>
 </tr>
+
+<tr>
+<td width="16.6%">
+Metadata
+</video>
+</td>
+
+<td width="16.6%">
+{"video_fps": 24, "audio_sr": 16000, "digit": 0, "speed": -79.3532652822735, "instrument": "harp"}
+</video>
+</td>
+
+<td width="16.6%">
+{"video_fps": 24, "audio_sr": 16000, "digit": 1, "speed": 50.48710167061431, "instrument": "oboe"}
+</video>
+</td>
+
+<td width="16.6%">
+{"video_fps": 24, "audio_sr": 16000, "digit": 3, "speed": 80.23661416370088, "instrument": "viola"}
+</video>
+</td>
+
+<td width="16.6%">
+{"video_fps": 24, "audio_sr": 16000, "digit": 2, "speed": -116.73286592787174, "instrument": "piano"}
+</video>
+</td>
+
+<td width="16.6%">
+{"video_fps": 24, "audio_sr": 16000, "digit": 8, "speed": -33.987388002672645, "instrument": "oboe"}
+</video>
+</td>
+</tr>
+
+
 </table>
 
 ## 1. Download
