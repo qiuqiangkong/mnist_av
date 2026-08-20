@@ -1,6 +1,6 @@
 # MNIST-AV Dataset
 
-A synthetic audio-visual dataset with synchronized digit videos, instrument sounds, and text descriptions for multimodal learning research.
+MNIST-AV is a synthetic audio-visual dataset with synchronized digit videos, instrument sounds, and text descriptions for multimodal learning research. The dataset contains 60,000 training samples and 10,000 test samples, each consisting of a 2-second video clip paired with corresponding audio and natural language descriptions. The total dataset size is approximately 2 GB.
 
 <table>
 <tr>
