@@ -26,14 +26,18 @@ Video with audio
 </td>
 
 <td width="20%">
-<video controls width="100%">
-<source src="./demo10.mp4" type="video/mp4">
+<video 
+  src="https://github.com/user-attachments/assets/31b81777-ee97-4cff-b4a6-12cf3189426e"
+  controls
+  width="100%">
 </video>
 </td>
 
 <td width="20%">
-<video controls width="100%">
-<source src="./demo11.mp4" type="video/mp4">
+<video 
+  src="https://github.com/user-attachments/assets/18b9c4ab-2310-4e9a-b26e-6865725e244a"
+  controls
+  width="100%">
 </video>
 </td>
 
