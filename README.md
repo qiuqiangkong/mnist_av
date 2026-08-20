@@ -73,6 +73,7 @@ The dataset can also be reproduced from scratch using the following steps.
 ```bash
 git clone https://github.com/qiuqiangkong/mnist_av
 cd mnist_av
+
 uv sync
 source .venv/bin/activate
 ```
