@@ -66,7 +66,7 @@ Metadata
 {"video_fps": 24, "audio_sr": 16000, "digit": 2, "speed": -116.73286592787174, "instrument": "piano"}
 </video>
 </td>
-
+</tr>
 
 </table>
 
