@@ -68,13 +68,7 @@ wget -O "mnist_av.zip" "https://huggingface.co/datasets/qiuqiangkong/mnist_av/re
 
 The dataset can also be reproduced from scratch using the following steps.
 
-### 2.1 Download the SoundFont
-
-Download the `FluidR3_GM.sf2` SoundFont from: https://musical-artifacts.com/artifacts/738/FluidR3_GM.sf2
-
-Place the downloaded file in the project directory.
-
-### 2.2 Set Up the Environment
+### 2.1 Set Up the Environment
 
 ```bash
 git clone https://github.com/qiuqiangkong/mnist_av
@@ -83,8 +77,13 @@ uv sync
 source .venv/bin/activate
 ```
 
+### 2.2 Download the SoundFont
+
+Download the `FluidR3_GM.sf2` SoundFont from: https://musical-artifacts.com/artifacts/738/FluidR3_GM.sf2
+
+### 2.3 Run
+
 ```python
-source .venv/bin/activate
 python create_dataset.py
 ```
 
