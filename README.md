@@ -4,75 +4,64 @@ A synthetic audio-visual dataset with synchronized digit videos, instrument soun
 
 <table>
 <tr>
-<td width="16.6%">
+<td width="20%">
 Video with audio
 </video>
 </td>
 
-<td width="16.6%">
-<video controls width="100%">
-<source src="https://github.com/user-attachments/assets/58144316-d816-4da2-903a-55d987a7dc21" type="video/mp4">
-</video>
-</td>
-
-<td width="16.6%">
+<td width="20%">
 <video 
-  src="https://github.com/user-attachments/assets/c6ad7544-716e-4675-b741-1bcf1736d81f"
+  src="https://github.com/user-attachments/assets/35e93ac9-baea-45f7-a37f-f9e887800dd3"
   controls
   width="100%">
 </video>
 </td>
 
-<td width="16.6%">
+<td width="20%">
+<video 
+  src="https://github.com/user-attachments/assets/62b3e8ec-069d-40da-8f3c-28434759a67a"
+  controls
+  width="100%">
+</video>
+</td>
+
+<td width="20%">
 <video controls width="100%">
 <source src="./demo10.mp4" type="video/mp4">
 </video>
 </td>
 
-<td width="16.6%">
+<td width="20%">
 <video controls width="100%">
 <source src="./demo11.mp4" type="video/mp4">
 </video>
 </td>
 
-<td width="16.6%">
-<video controls width="100%">
-<source src="./demo12.mp4" type="video/mp4">
-</video>
-</td>
-</tr>
-
 <tr>
-<td width="16.6%">
+<td width="20%">
 Metadata
 </video>
 </td>
 
-<td width="16.6%">
+<td width="20%">
 {"video_fps": 24, "audio_sr": 16000, "digit": 0, "speed": -79.3532652822735, "instrument": "harp"}
 </video>
 </td>
 
-<td width="16.6%">
+<td width="20%">
 {"video_fps": 24, "audio_sr": 16000, "digit": 1, "speed": 50.48710167061431, "instrument": "oboe"}
 </video>
 </td>
 
-<td width="16.6%">
+<td width="20%">
 {"video_fps": 24, "audio_sr": 16000, "digit": 3, "speed": 80.23661416370088, "instrument": "viola"}
 </video>
 </td>
 
-<td width="16.6%">
+<td width="20%">
 {"video_fps": 24, "audio_sr": 16000, "digit": 2, "speed": -116.73286592787174, "instrument": "piano"}
 </video>
 </td>
-
-<td width="16.6%">
-{"video_fps": 24, "audio_sr": 16000, "digit": 8, "speed": -33.987388002672645, "instrument": "oboe"}
-</video>
-</td>
-</tr>
 
 
 </table>
