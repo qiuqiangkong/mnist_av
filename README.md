@@ -16,13 +16,10 @@ Video with audio
 </td>
 
 <td width="16.6%">
-<video controls width="100%">
-  
-
-https://github.com/user-attachments/assets/c6ad7544-716e-4675-b741-1bcf1736d81f
-
-
-<source src="./demo9.mp4" type="video/mp4">
+<video 
+  src="https://github.com/user-attachments/assets/c6ad7544-716e-4675-b741-1bcf1736d81f"
+  controls
+  width="100%">
 </video>
 </td>
 
