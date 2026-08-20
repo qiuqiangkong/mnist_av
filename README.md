@@ -5,13 +5,13 @@ A synthetic audio-visual dataset with synchronized digit videos, instrument soun
 <table>
 <tr>
 <td width="16.6%">
-Audio video
+Video with audio
 </video>
 </td>
 
 <td width="16.6%">
 <video controls width="100%">
-<source src="./demo8.mp4" type="video/mp4">
+<source src="https://github.com/user-attachments/assets/58144316-d816-4da2-903a-55d987a7dc21" type="video/mp4">
 </video>
 </td>
 
